@@ -1,8 +1,8 @@
 <!Doctype html>
 <html lang="en">
 <head>
-	<meta charset="utf-8">
-	<title>Stock Search</title>
+    <meta charset="utf-8">
+    <title>Stock Search</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <script src="jquery.js"></script>
     <script src="jquery-ui/jquery-ui.min.js"></script>
@@ -17,9 +17,9 @@
         body {
             background-color: #1f5577;
         }
-    </style>
-    
+    </style>    
 </head>
+	
 <body>
 <!--    Facebook SDK-->
     <script>
